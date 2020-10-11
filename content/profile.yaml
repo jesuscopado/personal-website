@@ -1,0 +1,29 @@
+- profile:
+  initials: JC
+  name: Jesús Copado
+  email: copado.je@gmail.com
+  profession: Software / ML Engineer
+  image: images/onda.jpg
+  location: Budapest, Hungary
+  relocation: true
+  company: "-"
+  for_hire: true
+  focus: Looking for a Master Thesis in AI
+  focus_url: https://masterschool.eitdigital.eu/programmes/aus/
+  about: |
+    Highly interested in the fields of artificial intelligence, bioinformatics and computational vision, especially in its applications in areas with real human impact such as biomedicine. 
+    
+    Two years of working experience and studies in Spain, Germany, Finland and Hungary. Passionate about cinema and sports.
+  skills:
+    - Software Engineering
+    - Artificial Intelligence
+    - Big Data
+  tools:
+    - PyCharm
+    - Jupyter
+    - VSCode
+  budget:
+    currency: €
+    min: 5
+    max: 30
+    default: 10

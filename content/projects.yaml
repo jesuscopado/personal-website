@@ -1,0 +1,10 @@
+- name: neuronhub
+  url: https://neuronhub.org
+  description: neuronhub is a blog created with the objective of gathering the knowledge that has been generated in the field of neuroscience worldwide.
+  status: live
+  tags:
+    - Gatsby
+    - JavaScript
+    - HTML / CSS
+  icon: website
+  image: images/neuronhub_square.jpg

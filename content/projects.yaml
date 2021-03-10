@@ -9,15 +9,3 @@
     - Netlify
   icon: website
   image: images/neuronhub_square.jpg
-
-- name: Deep Learning (CS-E4890) at Aalto University
-  url: https://github.com/jesuscopado/deeplearn2020
-  description: | 
-    Machine learning with deep neural networks. Programming using PyTorch. Grade: 5/5.
-  status: live
-  tags:
-    - Python
-    - PyTorch
-    - NumPy
-    - Jupyter
-  icon: github

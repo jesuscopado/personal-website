@@ -2,14 +2,14 @@
   initials: JC
   name: Jesús Copado
   email: copado.je@gmail.com
-  profession: Software / ML Engineer
+  profession: Deep Learning Engineer
   image: images/onda.jpeg
-  location: Budapest, Hungary
-  relocation: true
-  company: SZTAKI
-  for_hire: true
-  focus: Looking for positions in AI
-  focus_url: https://masterschool.eitdigital.eu/programmes/aus/
+  location: Munich, Germany
+  relocation: false
+  company: Parkdepot
+  for_hire: false
+  focus: Enabling contemporary parking solutions
+  focus_url: https://www.park-depot.com/en
   about: |
     Highly interested in the fields of artificial intelligence, bioinformatics and computer vision, especially in their applications in areas with real human impact. 
     

@@ -19,9 +19,9 @@
     - Software Engineering
     - AI Art / Design
   tools:
-    - Jupyter Notebook
-    - Midjourney
+    - Jupyter
     - PyCharm
+    - Midjourney
   budget:
     currency: €
     min: 5

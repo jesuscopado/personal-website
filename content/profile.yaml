@@ -2,26 +2,26 @@
   initials: JC
   name: Jesús Copado
   email: copado.je@gmail.com
-  profession: Deep Learning Engineer
+  profession: AI Engineer / Enthusiast / Artist
   image: images/onda.jpeg
   location: Munich, Germany
   relocation: false
   company: Parkdepot
   for_hire: false
-  focus: Building AI models for Computer Vision applications
-  focus_url: https://www.park-depot.com/en
+  focus: Exploring AI capabilities
+  focus_url: https://www.instagram.com/_jesuscopado
   about: |
     Highly interested in the fields of artificial intelligence and computer vision, especially in their applications in areas with real human impact. 
     
     Work experience in various sectors, such as automotive, banking and healthcare. Studies in Spain, Germany, Finland and Hungary. Graduated from a Double Master's Degree in Autonomous Systems (EIT Digital Master School). Passionate about cinema and sports.
   skills:
-    - Software Engineering
     - Artificial Intelligence
-    - Big Data
+    - Software Engineering
+    - AI Art / Design
   tools:
+    - Jupyter Notebook
+    - Midjourney
     - PyCharm
-    - Jupyter
-    - VSCode
   budget:
     currency: €
     min: 5

@@ -6,7 +6,7 @@
   image: images/DSC09444_6.jpg
   location: Madrid, Spain
   relocation: false
-  company: Parkdepot
+  company: Insud Pharma
   for_hire: false
   focus: Exploring AI capabilities
   focus_url: https://www.instagram.com/_jesuscopado
@@ -20,7 +20,7 @@
     - AI Art / Design
   tools:
     - Jupyter
-    - PyCharm
+    - VS Code
     - Midjourney
   budget:
     currency: €

@@ -1,3 +1,15 @@
+- name: kinosonik
+  url: https://kinosonik.io
+  description: SaaS that uses AI to create perfectly synchronized soundscapes in seconds, matching your video's content.
+  status: live
+  tags:
+    - AI
+    - Next.js
+    - Typescript
+    - Supabase
+  icon: website
+  image: images/kinosonik_square.png
+
 - name: neuronhub
   url: https://neuronhub.org
   description: neuronhub is a blog created with the objective of gathering the knowledge that has been generated in the field of neuroscience worldwide.

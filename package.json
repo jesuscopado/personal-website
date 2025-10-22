@@ -3,11 +3,24 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
   "dependencies": {
-    "@wkocjan/gatsby-theme-intro": "^1.0.14",
-    "gatsby": "^2.24.73",
-    "gatsby-plugin-manifest": "^2.4.34",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "@wkocjan/gatsby-theme-intro": "^2.0.1",
+    "gatsby": "^3.14.6",
+    "gatsby-plugin-manifest": "^3.14.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "overrides": {
+    "graphql": "^15.8.0"
   }
 }

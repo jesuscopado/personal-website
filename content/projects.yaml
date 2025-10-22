@@ -1,3 +1,14 @@
+- name: YouTube Channel
+  url: https://www.youtube.com/@jesuscopado-en
+  description: Making AI accessible through hands-on demos and practical examples, from voice agents to generative video, showing how these technologies can be applied today.
+  tags:
+    - AI
+    - Python
+    - Voice Agents
+    - AI Art / Design
+  icon: website
+  image: images/youtube_channel.png
+
 - name: kinosonik
   url: https://kinosonik.io
   description: SaaS that uses AI to create perfectly synchronized soundscapes in seconds, matching your video's content.

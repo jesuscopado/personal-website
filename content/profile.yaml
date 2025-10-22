@@ -3,25 +3,29 @@
   name: Jesús Copado
   email: copado.je@gmail.com
   profession: Artificial Intelligence Engineer
-  image: images/DSC09444_6.jpg
+  image: images/grey_mid.jpeg
   location: Madrid, Spain
   relocation: false
-  company: Insud Pharma
+  company: Nova
   for_hire: false
-  focus: Exploring AI capabilities
+  focus: Building AI systems
   focus_url: https://www.instagram.com/_jesuscopado
   about: |
-    Highly interested in the fields of artificial intelligence and computer vision, especially in their applications in areas with real human impact. 
-    
-    Work experience in various sectors, such as automotive, banking and healthcare. Studies in Spain, Germany, Finland and Hungary. Graduated from a Double Master's Degree in Autonomous Systems with a minor in Innovation and Entrepreneurship (EIT Digital Master School). Passionate about cinema and sports.
+    I build AI systems and share how they work.
+
+    From graduating top of my class in Software Engineering to earning a Double MSc in Autonomous Systems, I’ve always been driven to turn complex ideas into real-world applications. Since then, I’ve led AI initiatives ranging from research prototypes to production-ready systems, often in startup environments where speed and creativity matter most.
+
+    Alongside my engineering work, I run a YouTube channel where I explain and demo cutting-edge AI tools in a practical, creative way. My goal is to make AI accessible through hands-on examples, from voice agents to generative video, showing how these technologies can be applied today.
+
+    I combine solid engineering with curiosity for design, media, and human-AI interaction. I also bring an international perspective that shapes how I approach building and collaborating.
   skills:
     - Artificial Intelligence
     - Software Engineering
     - AI Art / Design
   tools:
+    - Cursor
     - Jupyter
-    - VS Code
-    - Midjourney
+    - ChatGPT
   budget:
     currency: €
     min: 1

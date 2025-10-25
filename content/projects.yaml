@@ -1,6 +1,7 @@
 - name: YouTube Channel
   url: https://www.youtube.com/@jesuscopado-en
   description: Making AI accessible through hands-on demos and practical examples, from voice agents to generative video, showing how these technologies can be applied today.
+  status: live
   tags:
     - AI
     - Python
